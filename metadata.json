@@ -1,0 +1,7 @@
+{
+  "name": "YomiGaku",
+  "description": "An interactive Japanese grammar and pronunciation trainer powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
